@@ -1,2 +1,3 @@
 # Qualcomm_Mobile_OpenCL_translation
 Qualcomm_Mobile_OpenCL translation 
+Qualcomm_Mobile_OpenCL.pdf 的翻译。可以作为OpenCL手机端的入门资料。
