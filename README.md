@@ -1,0 +1,2 @@
+# Qualcomm_Mobile_OpenCL_translation
+Qualcomm_Mobile_OpenCL translation 
